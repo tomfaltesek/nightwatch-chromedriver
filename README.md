@@ -1,6 +1,6 @@
 # Nightwatch ChromeDriver Starter Project
 
-This is a starter repository for those who want to quickly get started with Nightwatch without having to fumble through the [startup documentation](http://nightwatchjs.org/gettingstarted/ "Official Nightwatch Getting Started Guide"). You can get started with writing and running your e2e tests immediately and you won't have to worry about any of the painful dependencies or boilerplate configuration. 
+This is a starter repository for those who want to quickly get started with Nightwatch.js without having to fumble through the [startup documentation](http://nightwatchjs.org/gettingstarted/ "Official Nightwatch Getting Started Guide"). You can get started with writing and running your e2e tests immediately and you won't have to worry about any of the painful dependencies or boilerplate configuration. 
 
 Note that this setup **does NOT depend on Selenium or Java** (JDK), so we don't have to waste our time installing that software. The only dependencies are npm packages.
 
