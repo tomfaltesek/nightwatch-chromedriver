@@ -1,0 +1,14 @@
+{
+  "name": "nightwatch-chromedriver",
+  "version": "1.0.0",
+  "description": "Nightwatch starter project targetting the standalone Chromedriver instead of Selenium",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "author": "UCare",
+  "license": "MIT",
+  "devDependencies": {
+    "chromedriver": "^2.42.0",
+    "nightwatch": "^0.9.21"
+  }
+}
