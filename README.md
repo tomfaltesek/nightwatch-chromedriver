@@ -6,6 +6,9 @@ Note that this setup **does NOT depend on Selenium or Java** (JDK), so we don't 
 
 ## Getting Started
 
+### Pull Down the Repository
+Fork, clone, or download the repository.
+
 ### Install Nightwatch Globally (Optional)
 
 ```
